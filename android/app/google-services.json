@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440464539938",
+    "project_id": "simplone-clone",
+    "storage_bucket": "simplone-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440464539938:android:4438b67339aca9d35f257b",
+        "android_client_info": {
+          "package_name": "com.simplone.line.clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440464539938-9hrsl6p4t5d03gge8devdpd746u63o4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplone.line.clone",
+            "certificate_hash": "d4b09ed3bada0b7523c545e244bd566859208c01"
+          }
+        },
+        {
+          "client_id": "440464539938-umr4o9jgveop3a5g44i04op6rsrugkh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjb_IsOEyrDrdepBfz-pzZLN-BH6L4yqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440464539938-umr4o9jgveop3a5g44i04op6rsrugkh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
